@@ -1,4 +1,4 @@
-# opencrackprop
+# OpenCrackProp
 Tired of using commercial tools with outdated GUIs, no API, CLI, little to no documentation? Welcome to opencrackprop, a fully opensource NASGRO-like crack propagation tool that provides:
 1. transparent code and documentation 
 2. extensive library of crack geometries on par with industry competitors including capablities to transition between cracks
